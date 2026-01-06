@@ -61,3 +61,10 @@ HealthBite
 
 This project is currently under development and not yet licensed.
 
+---
+
+## 🔗 For detailed information
+
+For detailed information, you can visit the website:
+👉 **[Project Website ↗](https://sites.google.com/view/healthbiteapp/home)**
+
