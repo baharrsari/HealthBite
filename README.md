@@ -40,3 +40,24 @@ HealthBite
 ├── App.xaml       # Global resources & theme
 ├── AppShell.cs    # Shell navigation configuration
 └── MauiProgram.cs # Dependency Injection & app bootstrap
+```
+
+(Database & API integration will be added in future iterations.)
+
+---
+
+## 🔮 Planned Enhancements
+
+- ASP.NET Core Web API backend
+- User profile & authentication
+- Nutrition recommendation engine
+- SQLite local database
+- Analytics & progress dashboards
+- AI-assisted body-composition insights
+
+---
+
+## 📝 License
+
+This project is currently under development and not yet licensed.
+
